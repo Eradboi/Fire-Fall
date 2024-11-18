@@ -1,6 +1,9 @@
 # FIRE FALL GAME
 
-X and O Game is a Pygame (Python) 3 by 3 tic-tac-toe game that can either be two player or against the computer.
+Fire Fall Game is a Pygame (Python) single player PC game, where players try to manouver a plane to avoid coming in contact with fire balls falling from the sky.<br>
+The player has 10 lives and can also collect green orb-like lives along the way.<br>
+The higher the score, the harder it gets.<br>
+VIEW HIGHSCORES in the HIGHSCORE.TXT file.
 
 ## Installation
 Download [Python](https://www.python.org/downloads/) now.
@@ -10,18 +13,18 @@ Then install the pygame on the teriminal
 pip install pygame
 ```
 
-Clone the repository, open the main directory and run the main.py file to enjoy the X and O Game.
+Clone the repository, open the main directory and run the FIRE_BALL.py file to play the Fire Fall Game.
 ```bash
 git clone https://github.com/Eradboi/Fire-Fall
-#then enter the directory containing the main.py file
+#then enter the directory containing the FIRE_BALL.py file
 
 cd Fire-Fall
 # run the game file
-python main.py
+python FIRE_BALL.py
 #OR
-py main.py
+py FIRE_BALL.py
 #OR
-python<version> main.py
+python<version> FIRE_BALL.py
 ```
 
 Thanks, Enjoy.
