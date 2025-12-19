@@ -7,7 +7,7 @@ VIEW HIGHSCORES in the HIGHSCORE.TXT file.
 
 ## Installation
 Download [Python](https://www.python.org/downloads/) now.
-Then install the pygame on the teriminal
+Then install the pygame on the terminal
 
 ```bash
 pip install pygame
